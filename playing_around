@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "utf-8">
+    <link rel = "stylesheet" type = "text/css" href = "websiteFormat.css">
+  <body>
+    <div id = "wrapper">
+      <div id = "logoArea"></div>
+        <div id = "linkArea"></div>
+          <div id = "bodyArea"></div>
+            <div id = "footerArea"></div>
+    </div>
+    <div id = "rectangle2"></div>
+  </body>
+  </head>
+</html>
