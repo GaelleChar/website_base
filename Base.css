@@ -1,0 +1,56 @@
+.navBar{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1000vh;
+  height: 60px;
+  background-color: #F8F8F8; 
+}
+.logo{
+  top: 10px;
+  width: 100px;
+  height: 20px;
+  position:absolute;
+  margin-right: 40px;
+  margin-left: 10px;
+}
+.navBar ul{
+  margin:20px;
+  padding:0;
+}
+.navBar li{
+  margin-right: 1em;
+  
+  display: inline-block;
+  color:brown;
+}
+.navBar li:hover{
+  color: #F69270;
+}
+/**top section**/
+.sectionTop{
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  width: 1000vh;
+  height: 350px;
+  background: linear-gradient(#F0BB8C,#F3D2C4); 
+}
+/**back section**/
+.sectionBack{
+  position: absolute;
+  top: 410px;
+  left: 0px;
+  width: 1000vh;
+  height: 3000px;
+  background:linear-gradient(#F8F8F8,#F1EBEB); 
+}
+/**bottom section**/
+.sectionBottom{
+  position: absolute;
+  top: 3410px;
+  left: 0px;
+  width: 1000vh;
+  height: 60px;
+  background:linear-gradient(#F0BB8C,#F3D2C4); 
+}
